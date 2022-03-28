@@ -1,0 +1,9 @@
+matplotlib == 3.2.2
+absl-py
+pickle5
+numpy
+pandas
+scipy
+torch==1.8.0+cu111
+torchmeta == 1.7.0
+tqdm

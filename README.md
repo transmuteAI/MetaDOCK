@@ -26,7 +26,7 @@ The implicit_maml script offers many options to train implicit-MAML on 4-conv mo
 
 Here is a sample script to train on cifar-fs dataset, 4-conv model.
 ```
-
+python implicit_maml.py 
 ```
 
 ### Training
@@ -34,7 +34,7 @@ The implicit_maml_pruner script offers many options to prune the pre-trained mod
 
 Here is a sample script to prune on cifar-fs dataset, 4-conv model.
 ```
-
+python implicit_maml_pruner.py
 ```
 
 ## Citation
